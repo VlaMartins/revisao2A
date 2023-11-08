@@ -1,8 +1,9 @@
 body{
     background-image: url(fogueira.jpg);
     font-size: 15px;
-    background-color: green;
+    background-color: rgb(8, 20, 8);
     background-repeat: no-repeat;
+    color: antiquewhite;
 }
 
 h1{
