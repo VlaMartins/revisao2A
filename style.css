@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     color: antiquewhite;
     margin: 30px;
+    border: solid 4px yellow;
 }
 
 h1{
