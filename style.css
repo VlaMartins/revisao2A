@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
     color: antiquewhite;
     margin: 30px;
-    border: solid 4px yellow;
+    border: solid 4px rgb(137, 199, 163);
     padding: 30px;
     font-family: 'Quicksand', sans-serif;
     
@@ -15,3 +15,4 @@ h1{
     background-color: black;
     text-align: center;
 }
+
