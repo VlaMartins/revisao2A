@@ -1,13 +1,11 @@
 body{
     font-size: 18px;
-    background-image: linear-gradient(rgb(8, 20, 8), rgb(126, 153, 126));
-    background-repeat: no-repeat;
-    color: antiquewhite;
+    background-color: #0D0D0D;
+    color: #F2BA52;
     margin: 30px;
-    border: solid 4px rgb(137, 199, 163);
+    border: solid 4px #F29441;
     padding: 30px;
     font-family: 'Quicksand', sans-serif;
-    
 }
 
 h1{
